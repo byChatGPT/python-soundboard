@@ -1,3 +1,8 @@
+# Custom
+data.json
+.sourcery.yaml
+mypy.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
